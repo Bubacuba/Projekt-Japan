@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding:0;
+}
+
+#logo {
+    background-color: rgb(53, 53, 53);
+    height: 100px;
+    margin-left: 10px;
+}
+
+#navigation{
+    background-color: rgb(53,53,53);
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#header {
+    background-color: rgb(53,53,53);
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#side{
+    background-color: rgb(53,53,53);
+    height: 400px;
+    margin-top: 19px;
+    margin-left: 10px;
+    float: left;
+}
+
+#body{
+    background-color: rgb(53,53,53);
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 9%;
+}
+
+#foot{
+    background-color: rgb(53,53,53);
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
