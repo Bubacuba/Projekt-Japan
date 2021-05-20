@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&display=swap');
+
 body {
     margin: 0;
     padding:0;
@@ -9,9 +11,14 @@ body {
 }
 
 #navigation{
-    background-color: rgb(53,53,53);
+    background-color: white;
     height: 30px;
     margin-top: 5px;
+}
+
+
+.Filterbar_Container_Link{
+    font-family: 'El Messiri', sans-serif;
 }
 
 #header {
