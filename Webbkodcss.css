@@ -29,15 +29,20 @@ bottom:30px;
     margin-top: 5px;
 }
 
+.Filterbar{
+    text-align: center;
+}
 
 .Filterbar_Container_Link{
+    float: left;
+    margin-left: 20px;
     font-family: 'El Messiri', sans-serif;
 }
 
 #header {
     background-color: rgb(53,53,53);
     height: 120px;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 #body{
