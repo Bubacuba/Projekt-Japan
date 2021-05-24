@@ -21,6 +21,7 @@ font-weight:bold;
 text-shadow:1px 1.5px red;
 position:relative;
 bottom:30px;
+border: none;
 }
 
 #navigation{
@@ -41,7 +42,7 @@ bottom:30px;
 
 #header {
     background-color: lightblue;
-    height: 120px;
+    height: 130px;
     margin-top: 20px;
 }
 
@@ -61,7 +62,6 @@ bottom:30px;
     height: 100px;
 }
 #Culture{
-    background-color: red;
     font-size: 30px;
     margin-left: 10px;
     text-shadow:1px 1.5px grey;
