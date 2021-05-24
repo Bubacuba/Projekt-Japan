@@ -14,9 +14,9 @@ body {
 {
 text-align:center;
 font-size:65px;
-color:navy;
+color:black;
 font-weight:bold;
-text-shadow:1px 1.5px darkred;
+text-shadow:1px 1.5px red;
 }
 
 #navigation{
