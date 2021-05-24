@@ -10,6 +10,15 @@ body {
     height: 100px;
 }
 
+#logotitle
+{
+text-align:center;
+font-size:65px;
+color:navy;
+font-weight:bold;
+text-shadow:1px 2px darkred;
+}
+
 #navigation{
     background-color: white;
     height: 30px;
