@@ -6,8 +6,9 @@ body {
 }
 
 #logo {
-    background-image: url(alt1.gif);
-    height: 100px;
+    background-image: url(log69.gif);
+    background-repeat: no-repeat;
+    height: 200px;
     border:5px;
     border-style:solid;
 }
@@ -18,7 +19,7 @@ text-align:center;
 font-size:65px;
 color:black;
 font-weight:bold;
-text-shadow:1px 1.5px red;
+text-shadow:1px 1.5px grey;
 position:relative;
 bottom:30px;
 }
@@ -55,7 +56,7 @@ bottom:30px;
 }
 
 #body{
-    background: url(spiritedgif.gif);
+    background: url(BLOMMA.gif);
     background-repeat:no-repeat;
     background-size: cover;
     margin-top: 10px;
