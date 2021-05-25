@@ -24,13 +24,19 @@ bottom:30px;
 }
 
 #navigation{
-    background-color: white;
+
+    background: url(japanwallpaperlogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 30px;
     margin-top: 5px;
 }
 
 .Filterbar{
     text-align: center;
+    background: url(japanwallpaperlogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .Filterbar_Container_Link{
@@ -40,43 +46,134 @@ bottom:30px;
 }
 
 #header {
-    background-color: lightblue;
-    height: 130px;
-    margin-top: 20px;
+    background: url(japanwallpaperlogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    margin-top: 40px;
+
 }
 
 #body{
-    background-color: rgb(53,53,53);
-    height: 400px;
+    background: url(spiritedgif.gif);
+    background-repeat:no-repeat;
+    background-size: cover;
     margin-top: 10px;
 }
 
 #foot{
-    background-color: rgb(53,53,53);
+
     height: 30px;
     margin-top: 10px;
 }
 .Filterbar_Container{
-    background-color: lightblue;
+    background: url(japanwallpaperlogo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 100px;
 }
 #Culture{
     font-size: 30px;
-    margin-left: 10px;
+    margin-left: 40px;
     text-shadow:1px 1.5px grey;
     float:left;
 }
 #Tradition{
     font-size: 30px;
     float:left;
-    margin-left: 20px;
+    margin-left: 180px;
     text-shadow:1px 1.5px grey;
 
 }
 #Sights{
     font-size: 30px;
     float:left;
-    margin-left: 20px;
+    margin-left: 200px;
     text-shadow:1px 1.5px grey;
 
+}
+#boxuno{
+    border:2px solid white;
+    background-color: lightpink;
+    margin:1%;
+    width:20%;
+    height: 50vh;
+    margin-left:200px;
+    background: url(toronagashi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#boxdos{
+    border:2px solid white;
+    background-color: violet;
+    margin:1%;
+    margin-left:980px;
+    margin-top: 500px;
+    width:20%;
+    height: 50vh;
+    float:left;
+    background: url(bowing.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#boxtres{
+    border:2px solid white;
+    background-color: thistle;
+    margin:1%;
+    margin-left: 200px;
+    margin-top: 1000px;
+    width:20%;
+    height: 50vh;
+    float:none;
+    background: url(onsen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bodytradition{
+background-size: cover;
+background: url(wallpaper.jpg) no-repeat center center fixed;
+background-repeat: no-repeat;
+
+
+}
+#bodygif{
+    background-color: red;
+    float:left;
+}
+
+
+#traditionpic{
+    
+    border:2px solid white;
+    background-color: lightpink;
+    width:230px;
+    height: 30vh;
+    float:center;
+    background: url(traditionpict.jpg);
+    border-radius: 50%;
+}
+#culturepic{
+    border:2px solid white;
+    background-color: lightpink;
+    margin-left: 1px;
+    margin-top: 40px;
+    width:230px;
+    height: 30vh;
+    float:left;
+    background: url(traditionpict.jpg);
+    border-radius: 50%;
+}
+#sightspic{
+    border:2px solid white;
+    background-color: lightpink;
+    width:230px;
+    height: 30vh;
+    margin-right: 10px;
+    margin-top: 40px;
+    float:left;
+    background: url(traditionpict.jpg);
+    border-radius: 50%;
+}
+.Filterbar{
+    background: url(japanwallpaperlogo.jpg);
 }
