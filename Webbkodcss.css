@@ -9,8 +9,9 @@ body {
     background-image: url(log69.gif);
     background-repeat: no-repeat;
     height: 200px;
+    margin-left:80px;
     border:5px;
-    border-style:solid;
+    border-style:solid grey;
 }
 
 #logotitle
@@ -22,6 +23,7 @@ font-weight:bold;
 text-shadow:1px 1.5px grey;
 position:relative;
 bottom:30px;
+margin-right: 1500px;
 }
 
 #navigation{
