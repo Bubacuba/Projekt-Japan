@@ -180,3 +180,9 @@ background-repeat: no-repeat;
 .Filterbar{
     background: url(japanwallpaperlogo.jpg);
 }
+#foot{
+    background-color: lightslategrey;
+    height: 100px;
+
+
+}
