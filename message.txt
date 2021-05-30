@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang = "sv">
+<link rel = "stylesheet" href = "Webbkodcss.css">
+
+<head>
+    
+    <title>
+        japan-helpguide
+    </title>
+</head>
+<body>
+<div id = "logo"> <!-- Skapar en div med id="logo"-->
+    <div>
+        <div id = "Dot">
+                <h1 id="logotitle"> 
+                        Japan
+                    </h1>
+                <img src = "unnamed.png" alt = "japans-flagga"></a>
+                <div role="tablist" class = "Filterbar">
+
+                        <div id = "Culture">
+                            <a class = "Filterbar_Container_Link" href= "#" onclick="changeLink()"> Culture </a>
+                        </div>
+                    
+                        <div id = "Tradition">
+                            <a class = "Filterbar_Container_Link" href="#" onclick="changeTradition()"> Tradition </a>
+                            </div>
+                    
+                    
+                        <div id = "Sights">
+                            <a class = "Filterbar_Container_Link" href="#" onclick = "changeSights()"> Sights </a>
+                        </div>
+                    </div>
+        </div>
+        
+    </div>
+        
+</div>
+
+
+
+<div id="header"> <!-- Skapar en div med id="header"-->
+</div>
+
+<div id="body"> <!-- Skapar en div med id="body"-->
+    <div id="bodyculture">
+
+    </div>
+
+    
+    <div id = "bodygif"></div>
+
+    <div id="bodytradition"> <!--Zarah-->
+
+
+        
+    <div id = "boxuno">
+        <h2>Box1</h2>
+        <div id = "text1">
+            <p>A common festival that is celebrated in Japan in summer is named Obon. It is a three-day festival that celebrates the ancestors' spirits that come home to rest. It is the japanese tradition of floating lanterns in rivers known as Toro Nagashi. Obon is celebrated in summer because it is the time of the year when it’s believed that the spirit of the loved ones returns home. 
+            </p>
+        </div>
+    </div>
+
+    <div id = "boxdos">
+        <h2>Box2</h2>
+        </div>
+
+        <div id = "boxtres">
+            <h2>Box3</h2>
+
+        </div>
+
+</div>
+
+
+
+
+
+
+    </div>
+
+    <div id="bodysights">
+
+        </div>
+
+</div>
+
+<div id="foot"> <!-- Skapar en div med id="foot"-->
+    <h3>
+        Footer
+    </h3>
+</div>
+
+<script src="WebbkodJavaScript.js"></script>
+</body>
+
+</html>
