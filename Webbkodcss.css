@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=El+Messiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 
 body {
     margin: 0;
@@ -50,14 +51,6 @@ body {
     float:left;
 }
 
-
-#body{
-    background: url(BLOMMA.gif);
-    background-repeat:no-repeat;
-    background-size: cover;
-    margin-top: 10px;
-}
-
 #foot{
 
     height: 30px;
@@ -89,54 +82,80 @@ body {
     text-shadow:1px 1.5px grey;
 
 }
+.title0{
+    font-family: fantasy;
+}
+.titel1{
+    font-family: 'Federicka the Great', serif;
+}
+.titel2{
+    font-family: 'Federicka the Great', serif;
+}
+.title3{
+    font-family: 'Federicka the Great', serif;
+}
+
 #boxuno{
     border:2px solid white;
     background-color: lightpink;
+    font-size: 20px;
     margin:1%;
-    width:20%;
+    width:25%;
     height: 50vh;
-    margin-left:200px;
+    margin-left:220px;
+    margin-top:100px;
     background: url(toronagashi.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 #boxdos{
     border:2px solid white;
     background-color: violet;
+    font-size: 20px;
     margin:1%;
     margin-left:980px;
-    margin-top: 500px;
-    width:20%;
+    margin-top: 100px;
+    width:28%;
     height: 50vh;
     float:left;
     background: url(bowing.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 #boxtres{
     border:2px solid white;
     background-color: thistle;
+    font-size: 20px;
     margin:1%;
     margin-left: 200px;
-    margin-top: 1000px;
-    width:20%;
+    margin-top: 600px;
+    width:25%;
     height: 50vh;
-    float:none;
     background: url(onsen.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
 #bodytradition{
+
+background: url(THISJAPAn.jpg);
 background-size: cover;
-background: url(wallpaper.jpg) no-repeat center center fixed;
 background-repeat: no-repeat;
 
+height:auto;
+}
 
+#bild1{
+    padding: 5px;
+    width:150px;
+    margin-left: 300px;
+    margin-top:100px;
 }
-#bodygif{
-    background-color: red;
-    float:left;
-}
+
+
 
 
 #traditionpic{
@@ -165,9 +184,18 @@ background-repeat: no-repeat;
     background-color: lightpink;
     width:230px;
     height: 30vh;
-    margin-right: 10px;
+    margin-right: 150px;
     margin-top: 40px;
     float:left;
     background: url(traditionpict.jpg);
     border-radius: 50%;
+}
+.Filterbar{
+    background: url(japanwallpaperlogo.jpg);
+}
+#foot{
+    background-color: lightslategrey;
+    height: 100px;
+
+
 }
