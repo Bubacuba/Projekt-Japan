@@ -241,6 +241,13 @@ body {
     height: 50vh;
     padding-bottom:650px;
 }
+#boxcuro{
+    width:850px;
+    font-size:25px;
+    letter-spacing: 1px;
+    margin-left:400px;
+    padding-bottom:100px;
+}
 
 h2{
     font-family: 'Fredericka the Great';
