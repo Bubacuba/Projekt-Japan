@@ -437,6 +437,9 @@ background-size:cover;
 
 }
 
+#titleabout{
+    margin-left: 120px;
+}
 
 #about_txt{
     font-size: 20px;
