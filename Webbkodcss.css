@@ -65,8 +65,7 @@ body {
 #foot{
     background-color: darkgrey;
     height: 120px;
-    margin-top: 50px;
-
+    margin:0;
 }
 .Filterbar_Container{
     background: url(japanwallpaperlogo.jpg);
@@ -245,7 +244,7 @@ h2{
 h3{
     font-family:'Alegreya Sans SC';
     font-size:12px;
-
+    margin: 0cm;
 }
 #footpara{
     font-family:'Nixie One';
