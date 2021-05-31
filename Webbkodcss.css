@@ -4,6 +4,7 @@
 body {
     margin: 0;
     padding:0;
+    
 }
 
 #logo {
@@ -135,23 +136,22 @@ body {
 }
 
 #bodytradition{
-background-size: cover;
-background: url(japanesewall.jpg) no-repeat center center fixed;
+    background-size: cover;
+background: url(paintinTradition.jpg) no-repeat center center fixed;
+background-size: 1200px 721px;
 background-repeat: no-repeat;
-
-
 }
+
 #bodygif{
     background-color: red;
     float:left;
 }
 
-#bodysights
-{
+#bodysights{
 background-size:cover;
 }
-#himeji
-{
+
+#himeji{
 width:50%;
 text-align:center;
 margin-left:25%;
@@ -159,8 +159,8 @@ margin-bottom:5%;
 background-image:url(scroll.jpg);
 border:3px solid black;
 }
-#fuji
-{
+
+#fuji{
     width:50%;
     text-align:center;
     margin-left:25%;
