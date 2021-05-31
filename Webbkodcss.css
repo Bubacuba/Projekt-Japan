@@ -146,7 +146,63 @@ background-repeat: no-repeat;
     float:left;
 }
 
-
+#bodysights
+{
+background-size:cover;
+}
+#himeji
+{
+width:50%;
+text-align:center;
+margin-left:25%;
+margin-bottom:5%;
+background-image:url(scroll.jpg);
+border:3px solid black;
+}
+#fuji
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;
+    background-image:url(scroll.jpg);
+    border:2px solid black;
+}
+#zao
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;   
+    background-image:url(scroll.jpg);
+    border:2px solid black;
+}
+#tokyo
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%; 
+    background-image:url(scroll.jpg); 
+    border:2px solid black; 
+}
+#kyoto
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%; 
+    background-image:url(scroll.jpg);  
+    border:2px solid black;
+}
+#endsights
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%; 
+    background-image:url(scroll.jpg);
+    border:2px solid black;
+}
 #traditionpic{
     
     border:2px solid white;
