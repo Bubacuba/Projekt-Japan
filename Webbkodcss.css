@@ -156,6 +156,8 @@ width:50%;
 text-align:center;
 margin-left:25%;
 margin-bottom:5%;
+background-image:url(scroll.jpg);
+border:3px solid black;
 }
 #fuji
 {
@@ -163,33 +165,43 @@ margin-bottom:5%;
     text-align:center;
     margin-left:25%;
     margin-bottom:5%;
+    background-image:url(scroll.jpg);
+    border:2px solid black;
 }
 #zao
 {
     width:50%;
     text-align:center;
     margin-left:25%;
-    margin-bottom:5%;    
+    margin-bottom:5%;   
+    background-image:url(scroll.jpg);
+    border:2px solid black;
 }
 #tokyo
 {
     width:50%;
     text-align:center;
     margin-left:25%;
-    margin-bottom:5%;   
+    margin-bottom:5%; 
+    background-image:url(scroll.jpg); 
+    border:2px solid black; 
 }
 #kyoto
 {
     width:50%;
     text-align:center;
     margin-left:25%;
-    margin-bottom:5%;   
+    margin-bottom:5%; 
+    background-image:url(scroll.jpg);  
+    border:2px solid black;
 }
 #endsights
 {
     width:50%;
     text-align:center;
     margin-left:25%; 
+    background-image:url(scroll.jpg);
+    border:2px solid black;
 }
 #traditionpic{
     
