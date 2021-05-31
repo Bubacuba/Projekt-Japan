@@ -310,6 +310,12 @@ h3{
     margin-top: 80px;
     margin-left: 850px;
 }
+
+#Animevid1{
+    position: relative;
+    left: -570px;
+    bottom: 200px;
+}
 #introtxt{
     margin-top: 100px;
     width:850px;
