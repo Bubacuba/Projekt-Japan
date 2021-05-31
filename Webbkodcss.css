@@ -125,13 +125,9 @@ body {
 
 }
 #boxtres{
-
-    margin-top:800px;
-    margin-left: 950px;
+    margin-left: 280px;
     width:20%;
     height: 50vh;
-
-
 }
 
 h2{
@@ -185,9 +181,8 @@ h3{
 }
 #img2{
     margin-left:200px;
-    margin-top: 400px;
+    margin-top: 100px;
     background-size:10px 10px;
-    height:10vh;
 
 }
 #img3{
@@ -198,10 +193,10 @@ h3{
 }
 #extraimg{
     background-size:10px 15px;
-    margin-left:500px;
-    margin-bottom:-800px;
-    height:10vh;
-    width:50px;
+    margin-top: 70px;
+    margin-left:800px;
+    height:55vh;
+    width: 600px;
 }
 
 #ytvideo1{
