@@ -1,0 +1,32 @@
+<div>
+
+    <div id="bodysights">
+        <div id="himeji">
+            <h2>Sights of Japan</h2>
+            <p>Japan's landscape is extraordinary and so are their structures. One of the famous structures is the Himeji castle. It is to our knowledge, the  best preserved samurai castle and it is also the biggest one. Surrounded by sakura trees, it is one of the most famous sights in Japan.
+            </p>
+        </div>
+        <div id="fuji">
+        <p>Another incredible place to visit is Mount Fuji. It is Japan's largest mountain and is worshipped as a sacred place. It is a well shaped volcano with a height of 3776 meters and is still classified as an active volcano.
+        </p>
+        </div>
+        <div id="zao">
+        <p>If you’re not interested in structures or mountains a cool place to visit could be 
+            the Zao Fox Village. This is a park where foxes walk around freely and you are allowed to hold some of them for a smaller charge. Don’t expect all of the foxes to be interested in you though since they mostly sleep and play.   
+            </p>
+        </div>
+        <div id="tokyo">
+         <p>   A really interesting structure for you to go and see is the Tokyo Tower. It looks a bit like the Eiffel Tower and is actually inspired by it. It is a red and white tower that works like a communication tower and can be climbed by visitors. 
+        </p>
+        </div>
+        <div id="kyoto">
+           <p> The last site this text will take up is Imperial Kyoto. Kyoto is probably the most historical city or town in Japan. Its architecture has barely changed in a 1000 years. Even in the imperial times Kyoto was one of Japan's cultural centres and somehow it survived through the WWII devestations and therefore still stands with its remarkable old designs. 
+        </p>
+        </div>
+        <div id="endsights">
+          <p>  There is plenty more to see in Japan and if you decide to travel there we are sure that you won’t regret it. 
+        </p>
+        </div>
+    </div>
+
+</div>
