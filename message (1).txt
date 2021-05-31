@@ -19,11 +19,11 @@
                 <div role="tablist" class = "Filterbar">
 
                         <div id = "About">
-                                <a class = "Filterbar_Container_Link" href= "#" onclick="changeAbout()"> About </a>
+                                <a class = "Filterbar_Container_Link" href= "#" onclick="changeLink()"> About </a>
                             </div>
 
                         <div id = "Culture">
-                            <a class = "Filterbar_Container_Link" href= "#" onclick="changeCulture()"> Culture </a>
+                            <a class = "Filterbar_Container_Link" href= "#" onclick="changeLink()"> Culture </a>
                         </div>
                     
                         <div id = "Tradition">
