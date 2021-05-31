@@ -126,8 +126,11 @@ body {
 }
 #boxtres{
     margin-left: 280px;
+    margin-bottom: 50px;
+    margin-top:100px;
     width:20%;
     height: 50vh;
+    
 }
 
 h2{
@@ -167,6 +170,7 @@ h3{
     letter-spacing: 1px;
     width:500px;
     margin-left: -100px;
+    
 }
 #txtrandom{
     font-size:20px;
@@ -186,7 +190,7 @@ h3{
 
 }
 #img3{
-    margin-left:200px;
+    margin-left:100px;
     margin-top: 100px;
     background-size:20px 10px;
     
@@ -194,7 +198,7 @@ h3{
 #extraimg{
     background-size:10px 15px;
     margin-top: 70px;
-    margin-left:800px;
+    margin-left:750px;
     height:55vh;
     width: 600px;
 }
@@ -224,6 +228,13 @@ background-repeat: no-repeat;
 
 #bodysights{
 background-size:cover;
+}
+#bodyabout{
+    background-size:cover;
+    background:url(paintinTradition.jpg) no-repeat center center fixed;
+    background-size:1200px 755px;
+    background-repeat: no-repeat;
+    
 }
 
 #himeji{
