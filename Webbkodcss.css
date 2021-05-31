@@ -65,7 +65,7 @@ body {
 #foot{
     background-color: darkgrey;
     height: 120px;
-    margin-top: -50px;
+    margin-top: 50px;
 
 }
 .Filterbar_Container{
@@ -78,8 +78,9 @@ body {
     font-size: 30px;
     float:left;
     text-shadow:1px 1.5px grey;
-
 }
+
+
 #Culture{
     font-size: 30px;
     margin-left: 40px;
@@ -347,7 +348,7 @@ background-size:cover;
 }
 
 #about_txt{
-    font-size: 25px;
+    font-size: 20px;
     width:850px;
     letter-spacing: 1px;
     margin-left: 300px;
