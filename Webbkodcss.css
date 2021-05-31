@@ -138,8 +138,51 @@ background-repeat: no-repeat;
     background-color: red;
     float:left;
 }
-
-
+#bodysights
+{
+background-size:cover;
+}
+#himeji
+{
+width:50%;
+text-align:center;
+margin-left:25%;
+margin-bottom:5%;
+}
+#fuji
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;
+}
+#zao
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;    
+}
+#tokyo
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;   
+}
+#kyoto
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%;
+    margin-bottom:5%;   
+}
+#endsights
+{
+    width:50%;
+    text-align:center;
+    margin-left:25%; 
+}
 #traditionpic{
     
     border:2px solid white;
