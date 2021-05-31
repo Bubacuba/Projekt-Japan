@@ -65,8 +65,7 @@ body {
 #foot{
     background-color: darkgrey;
     height: 120px;
-    margin-top: 50px;
-
+    margin:0;
 }
 .Filterbar_Container{
     background: url(japanwallpaperlogo.jpg);
@@ -245,7 +244,7 @@ h2{
 h3{
     font-family:'Alegreya Sans SC';
     font-size:12px;
-
+    margin: 0cm;
 }
 #footpara{
     font-family:'Nixie One';
@@ -312,6 +311,12 @@ h3{
     margin-top: 80px;
     margin-left: 850px;
 }
+
+#Animevid1{
+    position: relative;
+    left: -570px;
+    bottom: 200px;
+}
 #introtxt{
     margin-top: 100px;
     width:850px;
@@ -347,6 +352,7 @@ background-size:cover;
     background:url(paintinTradition.jpg) no-repeat center center fixed;
     background-size:1200px 755px;
     background-repeat: no-repeat;
+    padding:200px;
 
 }
 
@@ -354,7 +360,7 @@ background-size:cover;
     font-size: 20px;
     width:850px;
     letter-spacing: 1px;
-    margin-left: 300px;
+    margin-left: 120px;
     margin-top:10px;
     text-align: center;
 }
