@@ -161,6 +161,12 @@ body {
     width: 600px;
 }
 
+#Animevid1{
+    position: relative;
+    left: -570px;
+    bottom: 200px;
+}
+
 
 #introductiontxt{
     margin-top: 100px;
@@ -172,7 +178,7 @@ body {
 #txtyoutube{
     font-size:20px;
     letter-spacing:1px;
-    margin-left: 600px;
+    margin-left: 800px;
     margin-top: 400px;
     width:500px;
 
