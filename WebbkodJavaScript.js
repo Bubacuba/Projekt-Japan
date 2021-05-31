@@ -1,32 +1,31 @@
 function changeAbout(){
     var idet = document.getElementsByTagName("div")[2];
-    document.getElementById("bodyabout").style.visibility = "visible"
-    document.getElementById("bodyculture").style.visibility = "hidden";
-    document.getElementById("bodytradition").style.visibility = "hidden";
-    document.getElementById("bodysights").style.visibility = "hidden";
+    document.getElementById("bodyabout").style.display = "block"
+    document.getElementById("bodyculture").style.display = "none"
+    document.getElementById("bodytradition").style.display = "none"
+    document.getElementById("bodysights").style.display = "none"
 }
 
 function changeCulture(){
     var idet = document.getElementsByTagName("div")[2];
-    document.getElementById("bodyabout").style.visibility = "hidden"
-    document.getElementById("bodyculture").style.visibility = "visible";
-    document.getElementById("bodytradition").style.visibility = "hidden";
-    document.getElementById("bodysights").style.visibility = "hidden";
-
+    document.getElementById("bodyabout").style.display = "none"
+    document.getElementById("bodyculture").style.display = "block"
+    document.getElementById("bodytradition").style.display = "none"
+    document.getElementById("bodysights").style.display = "none"
 }
 
 function changeTradition(){
     var idet = document.getElementsByTagName("div")[2];
-    document.getElementById("bodyabout").style.visibility = "hidden"
-    document.getElementById("bodyculture").style.visibility = "hidden";
-    document.getElementById("bodytradition").style.visibility = "visible";
-    document.getElementById("bodysights").style.visibility = "hidden";
+    document.getElementById("bodyabout").style.display = "none"
+    document.getElementById("bodyculture").style.display = "none"
+    document.getElementById("bodytradition").style.display = "block"
+    document.getElementById("bodysights").style.display = "none"
 }
 
 function changeSights(){
     var idet = document.getElementsByTagName("div")[2];
-    document.getElementById("bodyabout").style.visibility = "hidden"
-    document.getElementById("bodyculture").style.visibility = "hidden";
-    document.getElementById("bodytradition").style.visibility = "hidden";
-    document.getElementById("bodysights").style.visibility = "visible";
+    document.getElementById("bodyabout").style.display = "none"
+    document.getElementById("bodyculture").style.display = "none"
+    document.getElementById("bodytradition").style.display = "none"
+    document.getElementById("bodysights").style.display = "block"
 }
