@@ -154,6 +154,15 @@ body {
     background-size:20px 10px;
 }
 
+#Anime{
+    background-size:10px 15px;
+    margin-top: 70px;
+    margin-left:750px;
+    height:55vh;
+    width: 600px;
+}
+
+
 #introductiontxt{
     margin-top: 100px;
     width:850px;
